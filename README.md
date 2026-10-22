@@ -4,6 +4,8 @@
 💻 Lenguajes: Nivel intermedio en Java | Aprendiendo Python
 
 🎯 Meta: Dominar bien las bases de Java y Python
+
+🗣️ Tiempos libres: Aprendiendo inglés desde 0 
 <!--
 **erickk-o/erickk-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
