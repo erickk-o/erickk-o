@@ -1,9 +1,9 @@
-## Hi there 👋
-##🎓 Estudios: Ingeniería en Sistemas de Información en la Universidad Central del Ecuador (UCE)
 
-##💻 Lenguajes: Nivel intermedio en Java | Aprendiendo Python
+🎓 Estudios: Ingeniería en Sistemas de Información en la Universidad Central del Ecuador (UCE)
 
-##🎯 Meta: Dominar bien las bases de Java y Python
+💻 Lenguajes: Nivel intermedio en Java | Aprendiendo Python
+
+🎯 Meta: Dominar bien las bases de Java y Python
 <!--
 **erickk-o/erickk-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
